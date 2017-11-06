@@ -1,0 +1,1 @@
+Coursera Bitcoin assigment 1 template. 
